@@ -1,0 +1,6 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name= "innowise_laboratory"
+dependencies = ["colorama"]
